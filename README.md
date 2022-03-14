@@ -20,6 +20,6 @@
       of the system should remain unchanged as before the command was called.
       
 ## REPOSITORY CONTENTS
-- fat.cpp
+- fat.c
 - Makefile
 - Microsoft Specification Document PDF
